@@ -4,6 +4,7 @@ Writes one confession to /output/entry.txt: an agent confesses it
 hallucinated the very confession it is making — including the guilt,
 which also wasn't real. Meta-angle on the stock hallucination joke:
 the confession, and the feeling behind it, are both fabricated.
+Single line, 87 characters — inside the 1–200 gate.
 Deterministic, stdlib only.
 """
 
